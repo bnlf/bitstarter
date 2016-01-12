@@ -2,6 +2,9 @@
   "name": "bitstarter",
   "version": "0.0.0",
   "private": true,
+  "engines": {
+    "4.2.4"
+  }
   "scripts": {
     "start": "node app"
   },
